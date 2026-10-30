@@ -1,0 +1,4 @@
+# English placeholder word<TAB>Turkish word, e.g. "branch_name<TAB>dal_adı".
+# These win over the official templates and over words learned from existing Turkish pages.
+# Run `node tldr-tr.js terms` to see everything currently in use.
+output_file	çıktı_dosyası

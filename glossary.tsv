@@ -1,0 +1,29 @@
+# English<TAB>Turkish. Used by the deepl (as a DeepL glossary) and llm (in the prompt) providers.
+# Keep it to terms with one clear translation. Lines starting with # are ignored.
+file	dosya
+directory	dizin
+folder	klasör
+path	yol
+package	paket
+repository	depo
+branch	dal
+commit	commit
+username	kullanıcı adı
+password	şifre
+command	komut
+subcommand	alt komut
+option	seçenek
+argument	argüman
+value	değer
+output	çıktı
+input	girdi
+standard input	standart girdi
+standard output	standart çıktı
+environment variable	ortam değişkeni
+recursively	özyinelemeli olarak
+symbolic link	sembolik bağlantı
+process	süreç
+container	konteyner
+server	sunucu
+configuration	yapılandırma
+documentation	dokümantasyon

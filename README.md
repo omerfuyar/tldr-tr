@@ -24,7 +24,13 @@ git remote add upstream https://github.com/tldr-pages/tldr
 npm install            # for tldr-lint
 ```
 
-Put this tool folder anywhere, for example next to the clone, and run it from inside the clone (or pass `--repo`).
+This tool lives on the `tools` branch of the fork, which shares no history with the tldr pages. Check it out next to the clone:
+
+```bash
+git worktree add ../tldr-tr-tools tools
+```
+
+Then run it from inside the clone (or pass `--repo`).
 
 ## Usage
 
